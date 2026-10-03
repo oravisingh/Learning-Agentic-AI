@@ -2,9 +2,9 @@
 
 1. Prerequisites
 - Intermediate Python
-* OOPS
-* Pydantic
-* AsyncIO
++ OOPS
++ Pydantic
++ AsyncIO
 - LangChain
 
 
