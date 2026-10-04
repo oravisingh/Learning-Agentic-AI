@@ -1,7 +1,7 @@
 from pydantic import BaseModel, Field
 from typing import Optional
 # TODO : Create an Employee Model
-# Fields:
+# Fields:]]
 # -id: int
 # -name: str (min 3 char)
 # -department: optional str (default "General")
